@@ -1,0 +1,1 @@
+A Static page for practice
